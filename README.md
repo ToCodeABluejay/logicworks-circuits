@@ -1,3 +1,3 @@
 # logicworks-circuits
 
-## Here lies a collections of miscellaneous circuits I have created using [LogicWorks](https://www.designworkssolutions.com/LogicWorks/)
+## Here lies a collection of miscellaneous circuits I have created using [LogicWorks](https://www.designworkssolutions.com/LogicWorks/)
